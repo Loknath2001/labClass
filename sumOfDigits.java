@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class sum{
+public class SumOfDigits{
     public static void main(String[] args) {
       int number,digit,sum=0;
       Scanner sc=new Scanner(System.in);
